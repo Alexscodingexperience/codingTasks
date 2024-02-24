@@ -8,3 +8,6 @@ In this file the while function is used, this function will continuously ask a u
 
 In this file, a loop is used to create a pattern of *, this is important if you want to design something, it also is done in just one loop for efficiency.
 
+### Credits
+
+All code was written by Alexander Wilson.
