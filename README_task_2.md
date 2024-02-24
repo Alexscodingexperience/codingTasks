@@ -21,3 +21,7 @@ Again this file uses psuedo code and the input() function to collect user inform
 ## conversion.py
 
 This file shows different ways to display numbers, integers, float and string and then prints the numbers back to the user, it is important to know all of these ways to display numbers back to the user so they can get the acurate number they are looking for. 
+
+### Credits
+
+All code was written by Alexander Wilson
